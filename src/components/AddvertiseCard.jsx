@@ -22,12 +22,12 @@ return(
 — Stephen Hawking
         </p>
         
-        <button class="mt-5 mb-8 ml-10 font-semibold text-white group">
+       <a href="#contact" alt="contactme"> <button class="mt-5 mb-8 ml-10 font-semibold text-white group">
           Contact me
           <svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-6 h-6 transition delay-100 group-hover:translate-x-2 transition-200" fill="none" viewBox="0 0 24 24" stroke="currentColor">
     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
   </svg>
-        </button>
+        </button></a>
         
       </div>
       
