@@ -17,7 +17,7 @@ function Img({ src, title }) {
 const ProjectList = (props) => {
   return (
     <>
-      <div className="grid justify-between lg:grid-cols-3">
+      <div className="grid justify-between lg:grid-cols-3" id="project">
         <Project
           title="Epic Game Clone"
           category="WebSite"
