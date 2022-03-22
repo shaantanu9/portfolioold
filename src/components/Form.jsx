@@ -32,7 +32,7 @@ return(
 
 <>
 <h1 id="ContactMe" className="my-2 text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4">
-        Contact Me
+        Contact Me</h1>
 <div className="mt-1 h-screen md:flex" id="contact">
 <div className="hidden overflow-hidden relative justify-around items-center w-1/2 bg-gradient-to-tr from-blue-800 to-purple-700 md:flex i">
 	
