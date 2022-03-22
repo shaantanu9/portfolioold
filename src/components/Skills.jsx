@@ -15,7 +15,7 @@ return(
         SKILLS
       </h1>
       <p className="mx-4 my-2 font-semibold text-center text-gray-600">The future belongs to those who learn more skills and combine them in creative ways. ― Robert Greene</p>
-      <div class="block lg:justify-start lg:flex lg:item-center">
+      <div class="block lg:justify-center lg:flex lg:item-center">
       
       <div className="mx-10"><a href="#skills"><iframe width="300" height="300"  title="skill" href="#skills" src="https://giphy.com/embed/4xyQcPmh44YiiZEEuZ" frameBorder="0" className="mr-2 ml-2 giphy-embed" allowFullScreen></iframe></a></div>
       
@@ -33,6 +33,9 @@ return(
       <SkillImg src="https://sathish-portfolio.vercel.app/images/icons8-heroku.svg" alt="Heroku" title="Heroku" />
       <SkillImg src="https://scrapy.org/favicons/apple-touch-icon-72x72.png" alt="Scrapy" title="Scrapy" />
       <SkillImg src="https://hwk0702.github.io/img/bs.png" alt="BeautifulSoup" title="BeautifulSoup" />
+      <SkillImg src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" title="FastAPI" />
+      <SkillImg src="https://www.svgrepo.com/show/7095/linux.svg" alt="LinuxOS" title="LinuxOS" />
+      
       <SkillImg src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" alt="Python" title="Python" />
       <img className="ml-2 w-20 h-20 rounded-full transition duration-500 transform hover:brightness-125 hover:bg-blue-600 hover:scale-105" src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg" alt="Wordpress" title="Wordpress" />
 

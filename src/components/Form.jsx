@@ -39,12 +39,12 @@ return(
 			<h1 className="font-sans text-4xl font-bold text-white">Hire / Freelancing</h1>
 			<p className="mt-1 text-lg font-semibold text-white">Bring Your Business Online and Enlease the Potential of <span className="text-xl font-bold">World Wide Web</span></p>
 			<div class="flex justify-between">
-                <button type="submit" className="block py-2 mt-4 mb-2 w-28 font-bold text-indigo-800 bg-white rounded-2xl">Resume</button>
-                <button type="submit" className="block py-2 mt-4 mb-2 w-28 font-bold text-indigo-800 bg-white rounded-2xl">Blog</button>
+                <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ui11mYl2kQYNpWebXtYqqkJLCFLu649C/view?usp=sharing" alt="Resume" title="Shantanu Bombatkar Resume"  ><button type="submit" className="block py-2 mt-4 mb-2 w-28 font-bold text-indigo-800 bg-white rounded-2xl">Resume</button></a>
+                <a target="_blank" rel="noreferrer" href="https://tech.shodkk.com" alt="Shodkk Blog"  title="Shodkk Blog"><button type="submit" className="block py-2 mt-4 mb-2 w-28 font-bold text-indigo-800 bg-white rounded-2xl">Blog</button></a>
             </div>
             <div class="flex justify-between">
-                <button type="submit" className="block py-2 mt-4 mb-2 w-28 font-bold text-indigo-800 bg-white rounded-2xl">Linkedin</button>
-                <button type="submit" className="block py-2 mt-4 mb-2 w-28 font-bold text-indigo-800 bg-white rounded-2xl">Gmail</button>
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/shantanu-bombatkar/" alt="Linkedin"  title="Linked"><button type="submit" className="block py-2 mt-4 mb-2 w-28 font-bold text-indigo-800 bg-white rounded-2xl">Linkedin</button></a>
+                <a target="_blank" rel="noreferrer" href="mailto:shantanubombatkar2@gmail.com" alt="Gmail"  title="shantanubombatkar2@gmail.com"><button type="submit" className="block py-2 mt-4 mb-2 w-28 font-bold text-indigo-800 bg-white rounded-2xl">Gmail</button></a>
             </div>
 			<p className="mt-1 text-lg font-semibold text-white">Single Page Responsive WebSite for your Business<span className="text-xl font-bold"> Free Free Free !</span></p>
             
