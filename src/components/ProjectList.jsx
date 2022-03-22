@@ -93,7 +93,7 @@ const ProjectList = (props) => {
           title="Configure Tailwind for React"
           category="NPM Package"
           Github="https://github.com/shaantanu9/configure-tailwind"
-          src=""
+          src="../img/Configure-Tailwind.png"
           description="NPM Package that Create React App already Configure for TailwindCSS"
           team="While Starting Learning React i want to use Tailwind with it and So i Found it takes lot of time to Copy paste and Configure Tailwind for Raact app So Made this Package that do all this 5-7min thing in SINGLE Click"
           member="50+ Downloads"
@@ -109,13 +109,14 @@ const ProjectList = (props) => {
           title="Hindu Vocab"
           category="Instagram Bot"
           Github=""
-          src=""
+          src="../img/TheHinduVocabTelegramBot.png"
           description="Instagram Bot that Upload English Words with Hindi Meaning when start"
           team="While Preparing for Goverment Exam i found that Vocabulary and English is important, but addicted to Social media a little so to use Instagram for learning and For Healping Others Like me, Created this Bot "
           member="1000+ Follower"
           livelink="https://www.instagram.com/hindu_vocab/"
         >
-          <Img title="" />
+          <Img src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" title="Python" />
+          <Img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" title="Instagram UnOfficial API" />
           <Img title="" />
           <Img title="" />
         </Project>
