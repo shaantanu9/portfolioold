@@ -19,7 +19,7 @@ function App() {
       <Body />
       <Skills />
       {/* <AddvertiseCard/> */}
-      <h1 className="text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4 hover:animate-pulse">
+      <h1 className="mt-3 text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4 hover:animate-pulse">
         PROJECTS
       </h1>
       <ProjectList />
