@@ -101,9 +101,9 @@ const ProjectList = (props) => {
         >
           <Img src ="https://nodejs.org/static/images/logo.svg" title="NodeJs" />
           <Img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" title="Javascript"/>
+          {/* <Img title="" />
           <Img title="" />
-          <Img title="" />
-          <Img title="" />
+          <Img title="" /> */}
         </Project>
                 <Project
           title="Hindu Vocab"
@@ -117,8 +117,8 @@ const ProjectList = (props) => {
         >
           <Img src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" title="Python" />
           <Img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" title="Instagram UnOfficial API" />
-          <Img title="" />
-          <Img title="" />
+          {/* <Img title="" />
+          <Img title="" /> */}
         </Project>
                 {/* <Project
           title=""
