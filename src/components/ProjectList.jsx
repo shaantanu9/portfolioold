@@ -42,7 +42,7 @@ const ProjectList = (props) => {
         <Project
           title=" Express Schema Generator"
           category="Npm Package"
-          Github="https://github.com/shaantanu9/express-schema-generator"
+          Githublink="https://github.com/shaantanu9/express-schema-generator"
           src="https://i.ibb.co/RpnncqQ/Screenshot-at-2022-03-17-23-49-50.png"
           description="Package to Create the Express+Mongoose MVC Patterned BoilerPlate"
           team="Implementing DRY Concept, I created this package that Create Express Sever in Seconds"
@@ -58,7 +58,7 @@ const ProjectList = (props) => {
         <Project
           title="Research Papers Shodkk"
           category="Telegram Bot"
-          Github=""
+          Githublink=""
           src="https://ph-files.imgix.net/a3951183-23fd-4e1b-9588-8a4b08d07966.jpeg?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=100&h=100&fit=crop&bg=0fff&dpr=1"
           // src="https://www.producthunt.com/posts/research-paper-shodkk-bot"
           description="Search Any Research Paper and Download it from Publically Available Database"
@@ -76,7 +76,7 @@ const ProjectList = (props) => {
         <Project
           title="Lakme Clone Site"
           category="Website"
-          Github="https://github.com/shaantanu9/lakmeindia"
+          Githublink="https://github.com/shaantanu9/lakmeindia"
           src="https://user-images.githubusercontent.com/66282953/158450698-03e2595e-6e6d-4649-9216-6c3175647bab.png"
           description="This is clone of Lakme.com. Lakmé is an Indian cosmetics brand, as it is owned by Hindustan Unilever."
           team=" Where we have used HTML, CSS and Advance Javascript.This project was completed by team of 5 members within 4 days."
@@ -92,7 +92,7 @@ const ProjectList = (props) => {
                 <Project
           title="Configure Tailwind for React"
           category="NPM Package"
-          Github="https://github.com/shaantanu9/configure-tailwind"
+          Githublink="https://github.com/shaantanu9/configure-tailwind"
           src="https://i.ibb.co/8Y8FZqj/Configure-Tailwind.png" 
           description="NPM Package that Create React App already Configure for TailwindCSS"
           team="While Starting Learning React i want to use Tailwind with it and So i Found it takes lot of time to Copy paste and Configure Tailwind for Raact app So Made this Package that do all this 5-7min thing in SINGLE Click"
@@ -108,7 +108,7 @@ const ProjectList = (props) => {
                 <Project
           title="Hindu Vocab"
           category="Instagram Bot"
-          Github=""
+          Githublink=""
           src="https://i.ibb.co/TLbGB2g/The-Hindu-Vocab-Telegram-Bot.png"
           description="Instagram Bot that Upload English Words with Hindi Meaning when start"
           team="While Preparing for Goverment Exam i found that Vocabulary and English is important, but addicted to Social media a little so to use Instagram for learning and For Healping Others Like me, Created this Bot "
@@ -123,7 +123,7 @@ const ProjectList = (props) => {
                 {/* <Project
           title=""
           category=""
-          Github=""
+          Githublink=""
           src=""
           description=""
           team=""
