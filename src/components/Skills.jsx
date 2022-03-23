@@ -15,7 +15,7 @@ return(
         SKILLS
       </h1>
       <p className="mx-4 my-2 font-semibold text-center text-gray-600">The future belongs to those who learn more skills and combine them in creative ways. ― Robert Greene</p>
-      <div class="block lg:justify-center lg:flex lg:item-center">
+      <div class="block lg:justify-between lg:flex lg:item-center">
       
       <div className="mx-10"><a href="#skills"><iframe width="300" height="300"  title="skill" href="#skills" src="https://giphy.com/embed/4xyQcPmh44YiiZEEuZ" frameBorder="0" className="mr-2 ml-2 giphy-embed" allowFullScreen></iframe></a></div>
       
