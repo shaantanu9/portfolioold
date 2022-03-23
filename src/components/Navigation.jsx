@@ -24,13 +24,13 @@ const Navigation = ()=>{
               </button>
               <ul className="flex fixed top-0 right-0 bottom-0 left-0 z-20 flex-col justify-center items-center py-10 text-3xl bg-white md:text-base md:flex md:flex-row md:relative md:bg-transparent">
                 <li className="pt-10 text-base text-gray-700 cursor-pointer hover:text-gray-900 lg:text-lg md:pt-0 md:ml-5 lg:ml-10">
+                  <a href="#about">About</a>
+                </li>
+                <li className="pt-10 text-base text-gray-700 cursor-pointer hover:text-gray-900 lg:text-lg md:pt-0 md:ml-5 lg:ml-10">
                   <a href="#skills">Skills</a>
                 </li>
                 <li className="pt-10 text-base text-gray-700 cursor-pointer hover:text-gray-900 lg:text-lg md:pt-0 md:ml-5 lg:ml-10">
                   <a href="#project">Projects</a>
-                </li>
-                <li className="pt-10 text-base text-gray-700 cursor-pointer hover:text-gray-900 lg:text-lg md:pt-0 md:ml-5 lg:ml-10">
-                  <a href="#about">About</a>
                 </li>
                 <li className="pt-10 text-base text-gray-700 cursor-pointer hover:text-gray-900 lg:text-lg md:pt-0 md:ml-5 lg:ml-10">
                   <a href="#contact">Contact</a>
