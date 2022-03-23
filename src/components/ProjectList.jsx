@@ -78,8 +78,8 @@ const ProjectList = (props) => {
           category="Website"
           Github="https://github.com/shaantanu9/lakmeindia"
           src="https://user-images.githubusercontent.com/66282953/158450698-03e2595e-6e6d-4649-9216-6c3175647bab.png"
-          description="This is clone of Lakme.com, Where we have used HTML, CSS and Advance Javascript.This project was completed by team of 5 members within 4 days "
-          team=""
+          description="This is clone of Lakme.com. Lakmé is an Indian cosmetics brand, as it is owned by Hindustan Unilever."
+          team=" Where we have used HTML, CSS and Advance Javascript.This project was completed by team of 5 members within 4 days."
           member="Team"
           livelink="https://sauravsaran99.github.io/lakmeindia/"
         >
