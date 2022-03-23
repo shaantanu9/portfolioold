@@ -21,16 +21,13 @@ const Body = () => {
                 <span className="text-indigo-700 duration-1000 delay-100 animate-pulse"> Shantanu Bombatkar</span>
               </h1>
               <p className="mt-5 font-normal text-center text-gray-500 md:text-gray-600 sm:text-lg md:text-lg sm:mt-10 lg:w-10/12">
-              An innovative and analytical
+                A
                 <span className="text-indigo-700 text-[18px] text-lg font-semibold">
                   {" "}
                   Full Stack Web Developer{" "}
                 </span>
-               with a 
-specialization in MERN and FARM stack. Seeking a responsible
-and challenging career, looking forward to honing the skills
-and knowledge of engineering and management which in
-turn, will be fully utilized for the organization’s end goal.
+                who like to build a Great minimalistic Interface and an
+                Automation Crypto Golang Enthusiast
               </p>
             </div>
           </div>

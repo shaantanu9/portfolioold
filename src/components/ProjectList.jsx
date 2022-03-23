@@ -17,7 +17,7 @@ function Img({ src, title }) {
 const ProjectList = (props) => {
   return (
     <>
-      <div className="grid justify-between lg:grid-cols-3" id="project">
+      <div className="grid justify-between mt-20 lg:grid-cols-3" id="project">
         <Project
           title="Epic Game Clone"
           category="WebSite"
@@ -26,7 +26,7 @@ const ProjectList = (props) => {
           description="Epic Games, Inc. is an American video games Ecommerce and software developer and publisher."
           team=" We have tried to clone the website using HTML5, CSS, Javascript DOM and Advanced JavaScript."
           member="Team"
-          livelink=""
+          livelink="https://epic-games-full-stack.vercel.app/"
 
         >
           <Img
@@ -106,7 +106,7 @@ const ProjectList = (props) => {
           <Img title="" /> */}
         </Project>
                 <Project
-          title="Hindu Vocab"
+          title="The Hindu Vocab"
           category="Instagram Bot"
           Githublink=""
           src="https://i.ibb.co/TLbGB2g/The-Hindu-Vocab-Telegram-Bot.png"

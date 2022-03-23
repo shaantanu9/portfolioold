@@ -1,3 +1,4 @@
+import Aboutme from './components/Aboutme' 
 import Navigation from "./components/Navigation";
 import Form from "./components/Form";
 import Socials from "./components/Socials";
@@ -17,6 +18,7 @@ function App() {
     <div className="bg-white App dark:text-gray-100">
       <Navigation />
       <Body />
+      <Aboutme/>
       <Skills />
       {/* <AddvertiseCard/> */}
       <h1 className="mt-6 text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4 hover:animate-pulse">
