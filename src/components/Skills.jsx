@@ -19,7 +19,7 @@ return(
       
       <div className="mx-10 ml-32"><a href="#skills"><iframe width="300" height="300"  title="skill" href="#skills" src="https://giphy.com/embed/4xyQcPmh44YiiZEEuZ" frameBorder="0" className="mr-2 ml-2 giphy-embed" allowFullScreen></iframe></a></div>
       
-    <div className="grid grid-cols-3 justify-between mt-8 ml-2 lg:ml-32 lg:grid-cols-5"> 
+    <div className="grid grid-cols-3 justify-between mt-8 ml-2 lg:ml-32 lg:grid-cols-6"> 
       <SkillImg src="https://sathish-portfolio.vercel.app/images/icons8-html-5.svg" alt="HTML5" title="HTML5" />
       <SkillImg src="https://sathish-portfolio.vercel.app/images/icons8-css3.svg" alt="CSS5" title="CSS5" />
       <SkillImg src="https://sathish-portfolio.vercel.app/images/icons8-javascript.svg" alt="Javascript" title="Javascript" />
