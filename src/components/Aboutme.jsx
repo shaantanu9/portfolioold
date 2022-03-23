@@ -7,7 +7,7 @@ return(
 <h1 id="about" className="mt-36 text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4">
         ABOUT ME
       </h1>
-<h1 className="p-2 mx-12 text-4xl animate-bounce lg:mx-64">Hello</h1>
+<h1 className="p-2 mx-12 text-4xl animate-bounce lg:mx-64">Hello,</h1>
 <p className='text-xl text-center text-gray-500 lg:mx-64'>
 I am an innovative and analytical full-stack web developer with a
 specialization in MERN and FARM stack. Seeking a responsible
