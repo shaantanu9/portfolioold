@@ -4,7 +4,7 @@ const Skills = (props)=>{
 
   function SkillImg({src,title}){
     return(
-      <img className="w-20 h-20 bg-gray-100 rounded-full transition duration-500 transform lg:mx-6 hover:brightness-125 hover:bg-blue-600 hover:scale-105" src={src} alt={title} title={title} />
+      <img className="w-20 h-20 bg-gray-300 rounded-full transition duration-500 transform lg:mx-6 hover:brightness-125 hover:bg-blue-600 hover:scale-105" src={src} alt={title} title={title} />
     )
   }
 
