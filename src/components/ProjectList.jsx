@@ -24,7 +24,7 @@ const ProjectList = (props) => {
           Githublink="https://github.com/shaantanu9/Epic_Games"
           src="https://loving-jones-ff749a.netlify.app/assets/img/epic.png"
           description="Epic Games, Inc. is an American video games Ecommerce and software developer and publisher."
-          team=" We have tried to clone the website using HTML5, CSS, Javascript DOM and Advanced JavaScript. Added Backend Server for login and storing Game Details"
+          team=" Tried to clone the website using HTML5, CSS, Javascript DOM and Advanced JavaScript. Added Backend Server for login and storing Game Details"
           member="Team"
           livelink="https://epic-games-full-stack.vercel.app/"
 
