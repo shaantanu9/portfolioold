@@ -9,8 +9,8 @@ const Body = () => {
           <div className="justify-between items-center mb-5 w-11/12 sm:w-2/3 lg:flex sm:mb-10">
             <div className="text-center md:mr-20">
               <img
-                className=""
-                src="https://i.ibb.co/kDxwSJH/Shantanu-Bombatkar-Portfolio.jpg"
+                className="rounded-full"
+                src="https://i.ibb.co/6DqgY0H/Shantanu-Bombatkar-Portfolio.png"
                 alt="Shantanu-Bombatkar-Portfolio"
               />
           {/* <Socials/> */}
