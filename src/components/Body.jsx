@@ -10,8 +10,8 @@ const Body = () => {
             <div className="text-center md:mr-20">
               <img
                 className=""
-                src="https://i.ibb.co/vXLtMvY/portfolio.jpg"
-                alt="portfolio"
+                src="https://i.ibb.co/kDxwSJH/Shantanu-Bombatkar-Portfolio.jpg"
+                alt="Shantanu-Bombatkar-Portfolio"
               />
           {/* <Socials/> */}
             </div>
