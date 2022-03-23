@@ -97,8 +97,8 @@ return(
 							<textarea onChange={onChangeForm} className="pl-2 w-32 h-32 border-none outline-none" type="textbox" name="discription" id="shortdetail" placeholder="Short Detail. . ." ></textarea>
       </div>
 							<input type="submit" value="Contact Me" className="block py-2 mt-4 mb-2 w-full font-semibold text-white bg-indigo-600 rounded-2xl"/>
-							{/* <button type="submit" className="block py-2 mt-4 mb-2 w-full font-semibold text-white bg-indigo-600 rounded-2xl">Contact Me</button> */}
 	</form>
+							<a href="tel:7218663309"><button type="submit" className="block py-2 mt-4 mb-2 w-full font-semibold text-white bg-indigo-600 rounded-2xl">+917218663309</button></a>
 	</div>
 </div>
 </>
