@@ -4,7 +4,7 @@ const Aboutme = (props)=>{
 
 return(
 <>
-<h1 id="skills" className="mt-20 text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4">
+<h1 id="about" className="mt-36 text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4">
         ABOUT ME
       </h1>
 <h1 className="p-2 mx-12 text-4xl animate-bounce">Hello</h1>

@@ -11,7 +11,7 @@ const Skills = (props)=>{
 return(
 <>
 
-<h1 id="skills" className="mt-20 text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4">
+<h1 id="skills" className="mt-36 text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4">
         SKILLS
       </h1>
       <p className="mx-4 my-2 font-semibold text-center text-gray-600">The future belongs to those who learn more skills and combine them in creative ways. ― Robert Greene</p>
