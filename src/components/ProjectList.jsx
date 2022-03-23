@@ -24,7 +24,7 @@ const ProjectList = (props) => {
           Githublink="https://github.com/shaantanu9/Epic_Games"
           src="https://loving-jones-ff749a.netlify.app/assets/img/epic.png"
           description="Epic Games, Inc. is an American video games Ecommerce and software developer and publisher."
-          team=" We have tried to clone the website using HTML5, CSS, Javascript DOM and Advanced JavaScript."
+          team=" We have tried to clone the website using HTML5, CSS, Javascript DOM and Advanced JavaScript. Added Backend Server for login and storing Game Details"
           member="Team"
           livelink="https://epic-games-full-stack.vercel.app/"
 
@@ -45,7 +45,7 @@ const ProjectList = (props) => {
           Githublink="https://github.com/shaantanu9/express-schema-generator"
           src="https://i.ibb.co/RpnncqQ/Screenshot-at-2022-03-17-23-49-50.png"
           description="Package to Create the Express+Mongoose MVC Patterned BoilerPlate"
-          team="Implementing DRY Concept, I created this package that Create Express Sever in Seconds"
+          team="While learning react I come to know about MVC. Implementing DRY Concept, I created this package that Create Express Sever in Seconds"
           member="200+ Downloads"
           livelink="https://www.npmjs.com/package/express-schema-generator"
         >
