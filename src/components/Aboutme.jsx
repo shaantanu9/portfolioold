@@ -8,13 +8,13 @@ return(
         ABOUT ME
       </h1>
 <h1 className="p-2 mx-12 text-4xl animate-bounce">Hello</h1>
-<pre className='text-xl text-center text-gray-500 lg:mx-60'>
+<p className='text-xl text-center text-gray-500 lg:mx-64'>
 I am an innovative and analytical full-stack web developer with a
 specialization in MERN and FARM stack. Seeking a responsible
 and challenging career, looking forward to honing the skills
 and knowledge of engineering and management which in
 turn, will be fully utilized for the organization’s end goal.
-</pre>
+</p>
 
 </>
 
