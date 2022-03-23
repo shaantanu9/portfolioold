@@ -37,7 +37,7 @@ return(
       <SkillImg src="https://www.svgrepo.com/show/7095/linux.svg" alt="LinuxOS" title="LinuxOS" />
       
       <SkillImg src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" alt="Python" title="Python" />
-      <img className="ml-2 w-20 h-20 rounded-full transition duration-500 transform hover:brightness-125 hover:bg-blue-600 hover:scale-105" src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg" alt="Wordpress" title="Wordpress" />
+      <img className="ml-2 w-20 h-20 rounded-full transition duration-500 transform lg:mx-10 hover:brightness-125 hover:bg-blue-600 hover:scale-105" src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg" alt="Wordpress" title="Wordpress" />
 
     </div> 
       </div>
