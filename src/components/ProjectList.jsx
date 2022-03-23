@@ -112,7 +112,7 @@ const ProjectList = (props) => {
           src="https://i.ibb.co/TLbGB2g/The-Hindu-Vocab-Telegram-Bot.png"
           description="Instagram Bot that Upload English Words with Hindi Meaning when start"
           team="While Preparing for Goverment Exam i found that Vocabulary and English is important, but addicted to Social media a little so to use Instagram for learning and For Healping Others Like me, Created this Bot "
-          member="1000+ Follower"
+          member="1000+ Follower 1800+ Post"
           livelink="https://www.instagram.com/hindu_vocab/"
         >
           <Img src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" title="Python" />
