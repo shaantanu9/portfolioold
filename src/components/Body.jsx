@@ -4,7 +4,7 @@ const Body = () => {
   return (
     // <div className="bg-gray-100">
     <>
-      <div className="my-0 bg-white" id="about">
+      <div className="my-0 bg-white">
         <div className="container flex flex-col items-center pt-1 pb-0 mx-auto sm:py-2">
           <div className="justify-between items-center mb-5 w-11/12 sm:w-2/3 lg:flex sm:mb-10">
             <div className="text-center md:mr-20">
