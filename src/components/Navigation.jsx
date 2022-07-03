@@ -35,6 +35,9 @@ const Navigation = ()=>{
                 <li className="pt-10 text-base text-gray-700 cursor-pointer hover:text-gray-900 lg:text-lg md:pt-0 md:ml-5 lg:ml-10">
                   <a href="#contact">Contact</a>
                 </li>
+                <li className="pt-10 font-semibold text-base text-gray-700 cursor-pointer hover:text-gray-900 lg:text-lg md:pt-0 md:ml-5 lg:ml-10">
+                  <a href="../static">Blog</a>
+                </li>
               </ul>
             </div>
           </div>
