@@ -13,12 +13,15 @@ const Body = () => {
                 src="https://i.ibb.co/6DqgY0H/Shantanu-Bombatkar-Portfolio.png"
                 alt="Shantanu-Bombatkar-Portfolio"
               />
-          {/* <Socials/> */}
+              {/* <Socials/> */}
             </div>
             <div>
               <h1 className="text-2xl font-black leading-7 text-center text-gray-900 sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl md:leading-10">
                 I am
-                <span className="text-indigo-700 duration-1000 delay-100 animate-pulse"> Shantanu Bombatkar</span>
+                <span className="text-indigo-700 duration-1000 delay-100 animate-pulse">
+                  {" "}
+                  Shantanu Bombatkar
+                </span>
               </h1>
               <p className="mt-5 font-normal text-center text-gray-500 md:text-gray-600 sm:text-lg md:text-lg sm:mt-10 lg:w-10/12">
                 A
@@ -31,11 +34,17 @@ const Body = () => {
               </p>
             </div>
           </div>
-          <a href="mailto:shantanubombatkar2@gmail.com" className="hidden mb-3 tracking-widest lg:block" >shantanubombatkar2@gmail.com</a>
+          <a
+            href="mailto:shantanubombatkar2@gmail.com"
+            className="hidden mb-3 tracking-widest lg:block"
+          >
+            shantanubombatkar2@gmail.com
+          </a>
 
           <div className="flex justify-center items-center mb-2">
             <a
-              target="_blank" rel="noreferrer"
+              target="_blank"
+              rel="noreferrer"
               href="https://drive.google.com/file/d/1ui11mYl2kQYNpWebXtYqqkJLCFLu649C/view?usp=sharing"
             >
               <button className="px-4 py-2 text-sm text-white bg-indigo-700 rounded border border-indigo-700 transition duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-700 hover:bg-indigo-600 lg:text-xl lg:font-bold sm:px-10 sm:py-4">
@@ -48,7 +57,7 @@ const Body = () => {
               </button>
             </a>
           </div>
-          <Socials/>
+          <Socials />
         </div>
       </div>
     </>

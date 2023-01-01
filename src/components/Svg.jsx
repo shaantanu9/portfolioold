@@ -32,11 +32,11 @@ const Twitter = ({ link }) => {
         target="_blank"
         rel="noreferrer"
         href={link}
-        class="w-12 h-12 rounded-full outline-none focus:outline-none"
+        className="w-12 h-12 rounded-full outline-none focus:outline-none"
         type="button"
       >
         <svg
-          class="text-gray-700 transition duration-300 ease-in-out fill-current dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-500"
+          className="text-gray-700 transition duration-300 ease-in-out fill-current dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-500"
           role="img"
           width="24"
           height="24"
@@ -57,11 +57,11 @@ const LinkedIn = ({ link }) => {
         target="_blank"
         rel="noreferrer"
         href={link}
-        class="w-12 h-12 rounded-full outline-none focus:outline-none"
+        className="w-12 h-12 rounded-full outline-none focus:outline-none"
         type="button"
       >
         <svg
-          class="text-gray-700 transition duration-300 ease-in-out fill-current dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-500"
+          className="text-gray-700 transition duration-300 ease-in-out fill-current dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-500"
           role="img"
           width="24"
           height="24"
@@ -82,11 +82,11 @@ const Youtube = ({ link }) => {
         target="_blank"
         rel="noreferrer"
         href={link}
-        class="w-12 h-12 rounded-full outline-none focus:outline-none"
+        className="w-12 h-12 rounded-full outline-none focus:outline-none"
         type="button"
       >
         <svg
-          class="text-gray-700 transition duration-300 ease-in-out fill-current dark:text-gray-400 hover:text-red-600 dark:hover:text-red-600"
+          className="text-gray-700 transition duration-300 ease-in-out fill-current dark:text-gray-400 hover:text-red-600 dark:hover:text-red-600"
           role="img"
           xmlns="http://www.w3.org/2000/svg"
           width="24"
@@ -107,11 +107,11 @@ const Reddit = ({ link }) => {
         target="_blank"
         rel="noreferrer"
         href={link}
-        class="w-12 h-12 rounded-full outline-none focus:outline-none"
+        className="w-12 h-12 rounded-full outline-none focus:outline-none"
         type="button"
       >
         <svg
-          class="text-gray-700 transition duration-300 ease-in-out fill-current dark:text-gray-400 hover:text-red-600 dark:hover:text-red-600"
+          className="text-gray-700 transition duration-300 ease-in-out fill-current dark:text-gray-400 hover:text-red-600 dark:hover:text-red-600"
           role="img"
           xmlns="http://www.w3.org/2000/svg"
           width="24"

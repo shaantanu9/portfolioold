@@ -5,7 +5,7 @@ import Project from "./Project";
 function Img({ src, title }) {
   return (
     <img
-      class="object-cover object-center w-10 h-10 rounded-full transition duration-500 transform hover:brightness-125 hover:bg-blue-600 hover:scale-110"
+      className="object-cover object-center w-10 h-10 rounded-full transition duration-500 transform hover:brightness-125 hover:bg-blue-600 hover:scale-110"
       // className=""
       src={src}
       alt={title}
@@ -27,17 +27,24 @@ const ProjectList = (props) => {
           team=" Tried to clone the website using HTML5, CSS, Javascript DOM and Advanced JavaScript. Added Backend Server for login and storing Game Details"
           member="Team"
           livelink="https://epic-games-full-stack.vercel.app/"
-
         >
           <Img
             src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3"
             title="TailwindCss"
           />
-          <Img src="https://expressjs.com/images/favicon.png" title="ExpressJs" />
-          <Img src ="https://nodejs.org/static/images/logo.svg" title="NodeJs" />
-          <Img title="MongoDb" src="https://sathish-portfolio.vercel.app/images/icons8-mongodb.svg"/>
-          <Img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" title="Javascript"/>
-          
+          <Img
+            src="https://expressjs.com/images/favicon.png"
+            title="ExpressJs"
+          />
+          <Img src="https://nodejs.org/static/images/logo.svg" title="NodeJs" />
+          <Img
+            title="MongoDb"
+            src="https://sathish-portfolio.vercel.app/images/icons8-mongodb.svg"
+          />
+          <Img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
+            title="Javascript"
+          />
         </Project>
         <Project
           title=" Express Schema Generator"
@@ -49,9 +56,15 @@ const ProjectList = (props) => {
           member="200+ Downloads"
           livelink="https://www.npmjs.com/package/express-schema-generator"
         >
-          <Img src="https://expressjs.com/images/favicon.png" title="ExpressJs" />
-          <Img src ="https://nodejs.org/static/images/logo.svg" title="NodeJs" />
-          <Img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" title="Javascript"/>
+          <Img
+            src="https://expressjs.com/images/favicon.png"
+            title="ExpressJs"
+          />
+          <Img src="https://nodejs.org/static/images/logo.svg" title="NodeJs" />
+          <Img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
+            title="Javascript"
+          />
           <Img title="" />
           <Img title="" />
         </Project>
@@ -65,12 +78,23 @@ const ProjectList = (props) => {
           team="While Learning Chemical Engineering Want to read Research Paper but not found any Source To Search and Download at same time "
           member="1000+Subscribers"
           livelink="https://www.producthunt.com/posts/research-paper-shodkk-bot"
-
         >
-          <Img src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" title="Python" />
-          <Img src="https://scrapy.org/favicons/apple-touch-icon-72x72.png" title="Scrapy" />
-          <Img src="https://hwk0702.github.io/img/bs.png" title="BeautifulSoup" />
-          <Img src="https://core.telegram.org/favicon.ico?4" title="Teleagrm API" />
+          <Img
+            src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png"
+            title="Python"
+          />
+          <Img
+            src="https://scrapy.org/favicons/apple-touch-icon-72x72.png"
+            title="Scrapy"
+          />
+          <Img
+            src="https://hwk0702.github.io/img/bs.png"
+            title="BeautifulSoup"
+          />
+          <Img
+            src="https://core.telegram.org/favicon.ico?4"
+            title="Teleagrm API"
+          />
           {/* <Img src="" title="" /> */}
         </Project>
         <Project
@@ -83,29 +107,47 @@ const ProjectList = (props) => {
           member="Team"
           livelink="https://sauravsaran99.github.io/lakmeindia/"
         >
-          <Img src="https://sathish-portfolio.vercel.app/images/icons8-css3.svg" title="HTML5" />
-          <Img src="https://sathish-portfolio.vercel.app/images/icons8-html-5.svg" title="CSS5" />
-          <Img src="https://sathish-portfolio.vercel.app/images/icons8-javascript.svg" title="Javascript" />
-          <Img src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" title="Python" />
-          <Img src="https://scrapy.org/favicons/apple-touch-icon-72x72.png" title="Scrapy" />
+          <Img
+            src="https://sathish-portfolio.vercel.app/images/icons8-css3.svg"
+            title="HTML5"
+          />
+          <Img
+            src="https://sathish-portfolio.vercel.app/images/icons8-html-5.svg"
+            title="CSS5"
+          />
+          <Img
+            src="https://sathish-portfolio.vercel.app/images/icons8-javascript.svg"
+            title="Javascript"
+          />
+          <Img
+            src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png"
+            title="Python"
+          />
+          <Img
+            src="https://scrapy.org/favicons/apple-touch-icon-72x72.png"
+            title="Scrapy"
+          />
         </Project>
-                <Project
+        <Project
           title="Configure Tailwind for React"
           category="NPM Package"
           Githublink="https://github.com/shaantanu9/configure-tailwind"
-          src="https://i.ibb.co/8Y8FZqj/Configure-Tailwind.png" 
+          src="https://i.ibb.co/8Y8FZqj/Configure-Tailwind.png"
           description="NPM Package that Create React App already Configure for TailwindCSS"
           team="While Starting Learning React i want to use Tailwind with it and So i Found it takes lot of time to Copy paste and Configure Tailwind for Raact app So Made this Package that do all this 5-7min thing in SINGLE Click"
           member="50+ Downloads"
           livelink="https://www.npmjs.com/package/configure-tailwind"
         >
-          <Img src ="https://nodejs.org/static/images/logo.svg" title="NodeJs" />
-          <Img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" title="Javascript"/>
+          <Img src="https://nodejs.org/static/images/logo.svg" title="NodeJs" />
+          <Img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
+            title="Javascript"
+          />
           {/* <Img title="" />
           <Img title="" />
           <Img title="" /> */}
         </Project>
-                <Project
+        <Project
           title="The Hindu Vocab"
           category="Instagram Bot"
           Githublink=""
@@ -115,12 +157,18 @@ const ProjectList = (props) => {
           member="1000+ Follower 1800+ Post"
           livelink="https://www.instagram.com/hindu_vocab/"
         >
-          <Img src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png" title="Python" />
-          <Img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" title="Instagram UnOfficial API" />
+          <Img
+            src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png"
+            title="Python"
+          />
+          <Img
+            src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"
+            title="Instagram UnOfficial API"
+          />
           {/* <Img title="" />
           <Img title="" /> */}
         </Project>
-                {/* <Project
+        {/* <Project
           title=""
           category=""
           Githublink=""
