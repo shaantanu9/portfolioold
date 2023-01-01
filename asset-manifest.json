@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Portfolio-Shantanu/static/css/main.8eb201db.css",
-    "main.js": "/React-Portfolio-Shantanu/static/js/main.cba2b0d4.js",
+    "main.js": "/React-Portfolio-Shantanu/static/js/main.5812e73c.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio-Shantanu/static/js/787.1ed0c42c.chunk.js",
     "index.html": "/React-Portfolio-Shantanu/index.html",
     "main.8eb201db.css.map": "/React-Portfolio-Shantanu/static/css/main.8eb201db.css.map",
-    "main.cba2b0d4.js.map": "/React-Portfolio-Shantanu/static/js/main.cba2b0d4.js.map",
+    "main.5812e73c.js.map": "/React-Portfolio-Shantanu/static/js/main.5812e73c.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio-Shantanu/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb201db.css",
-    "static/js/main.cba2b0d4.js"
+    "static/js/main.5812e73c.js"
   ]
 }
