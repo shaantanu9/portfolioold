@@ -38,7 +38,7 @@ const Form = (props) => {
         Contact Me
       </h1>
       <div className="mt-1 h-screen md:flex" id="contact">
-        <div className="hidden overflow-hidden relative justify-around items-center w-1/2 bg-gradient-to-tr from-blue-800 to-purple-700 md:flex i">
+        <div className="hidden overflow-hidden relative justify-around items-center w-1/2 bg-gradient-to-tr from-blue-800 to-purple-700 md:flex i w-[900px] rounded-2xl">
           {/* <div className="hidden overflow-hidden relative justify-around items-center w-1/2 bg-gradient-to-tr from-blue-800 to-purple-700 lg:block md:flex i"> */}
           <div>
             <h1 className="font-sans text-4xl font-bold text-white">

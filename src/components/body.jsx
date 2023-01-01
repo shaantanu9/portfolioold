@@ -23,7 +23,7 @@ const Body = () => {
                   Shantanu Bombatkar
                 </span>
               </h1>
-              <p className="mt-5 font-normal text-center text-gray-500 md:text-gray-600 sm:text-lg md:text-lg sm:mt-10 lg:w-10/12">
+              <p className="mt-5 font-normal text-center text-gray-500 md:text-gray-600 sm:text-lg md:text-lg sm:mt-10">
                 A
                 <span className="text-indigo-700 text-[18px] text-lg font-semibold">
                   {" "}
@@ -36,7 +36,7 @@ const Body = () => {
           </div>
           <a
             href="mailto:shantanubombatkar2@gmail.com"
-            className="hidden mb-3 tracking-widest lg:block"
+            className="hidden mb-3 tracking-widest lg:block text-black"
           >
             shantanubombatkar2@gmail.com
           </a>
@@ -45,7 +45,7 @@ const Body = () => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://drive.google.com/file/d/1ui11mYl2kQYNpWebXtYqqkJLCFLu649C/view?usp=sharing"
+              href="https://drive.google.com/file/d/1cpgnuAqPIP4pqjD9HexM4Brs-YXpymnu/view?usp=sharing?usp=sharing"
             >
               <button className="px-4 py-2 text-sm text-white bg-indigo-700 rounded border border-indigo-700 transition duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-700 hover:bg-indigo-600 lg:text-xl lg:font-bold sm:px-10 sm:py-4">
                 Resume

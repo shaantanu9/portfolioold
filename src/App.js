@@ -15,7 +15,7 @@ import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="bg-white App dark:text-gray-100">
+    <div className="bg-white App dark:text-gray-100 w-[50%] m-auto">
       <Navigation />
       <Body />
       <Aboutme/>
@@ -29,7 +29,7 @@ function App() {
       <Form />
       <div className="text-center footerCredit">
         <Socials />
-        <p className="mt-0">Made With Love+Reactjs+Tailwind</p>
+        <p className="mt-0 text-red-500">Made With Love+Reactjs+Tailwind</p>
       </div>
     </div>
   );

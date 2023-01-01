@@ -67,7 +67,7 @@ const Navigation = () => {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://drive.google.com/file/d/1ui11mYl2kQYNpWebXtYqqkJLCFLu649C/view?usp=sharing"
+          href="https://drive.google.com/file/d/1cpgnuAqPIP4pqjD9HexM4Brs-YXpymnu/view?usp=sharing?usp=sharing"
         >
           <button className="px-4 py-1 text-sm text-indigo-700 bg-transparent rounded border border-indigo-700 transition duration-150 ease-in-out focus:outline-none lg:text-lg lg:font-bold focus:ring-2 focus:ring-offset-2 focus:ring-indigo-700 md:block hover:bg-gray-200 sm:px-8 sm:py-3">
             Resume

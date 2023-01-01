@@ -1,4 +1,5 @@
 //import {useState, useEffect,useRef} from 'react'
+import GithubGraph from './GithubGraph';
 //import Skills from './components/Skills'
 const Skills = (props) => {
   function SkillImg({ src, title }) {
@@ -13,14 +14,14 @@ const Skills = (props) => {
   }
 
   return (
-    <>
+    <div className=''>
       <h1
         id="skills"
         className="mt-36 text-3xl font-extrabold text-center text-indigo-500 underline underline-offset-4"
       >
         SKILLS
       </h1>
-      <p className="mx-4 my-2 font-semibold text-center text-gray-600">
+      <p className="mx-4 my-2 font-semibold text-center text-gray-600 text-2xl">
         The future belongs to those who learn more skills and combine them in
         creative ways. ― Robert Greene
       </p>
@@ -129,8 +130,25 @@ const Skills = (props) => {
             title="Wordpress"
           />
         </div>
-      </div>
-    </>
+        </div>
+      <div
+      className='text-black mt-20  lg:w-100 lg:m-auto'
+      >
+        {/* <center> */}
+
+        <h1
+        className='text-3xl font-extrabold text-center text-indigo-500 underline-offset-4 mt-10'
+        >
+          Github Contribution
+        </h1>
+      <GithubGraph
+
+      />
+
+      {/* </center> */}
+        </div>
+
+    </div>
   );
 };
 
