@@ -38,10 +38,10 @@ const Project = ({
         <div className="max-w-full">
           <p className="mt-1 text-base font-medium tracking-wide text-gray-600">
             {description}
-            <p>
+            <span>
               <br />
               {team}
-            </p>
+            </span>
           </p>
         </div>
         <div className="flex justify-between items-center mt-2">

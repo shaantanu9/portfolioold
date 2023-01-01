@@ -18,14 +18,14 @@ const Navigation = () => {
         </div>
         <div>
           <button
-            onClick="toggleMenu(true)"
+
             className="text-gray-500 sm:block md:hidden hover:text-gray-700 focus:text-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-500"
           >
             <Github />
           </button>
           <div id="menu" className="hidden md:block lg:block">
             <button
-              onClick="toggleMenu(false)"
+              
               className="block fixed top-0 z-30 mt-6 text-gray-500 md:hidden lg:hidden hover:text-gray-700 focus:text-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-500"
             >
               <svg
