@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Portfolio-Shantanu/static/css/main.1ae1246e.css",
-    "main.js": "/React-Portfolio-Shantanu/static/js/main.8ac44c36.js",
+    "main.css": "/React-Portfolio-Shantanu/static/css/main.8eb201db.css",
+    "main.js": "/React-Portfolio-Shantanu/static/js/main.cba2b0d4.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio-Shantanu/static/js/787.1ed0c42c.chunk.js",
     "index.html": "/React-Portfolio-Shantanu/index.html",
-    "main.1ae1246e.css.map": "/React-Portfolio-Shantanu/static/css/main.1ae1246e.css.map",
-    "main.8ac44c36.js.map": "/React-Portfolio-Shantanu/static/js/main.8ac44c36.js.map",
+    "main.8eb201db.css.map": "/React-Portfolio-Shantanu/static/css/main.8eb201db.css.map",
+    "main.cba2b0d4.js.map": "/React-Portfolio-Shantanu/static/js/main.cba2b0d4.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio-Shantanu/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ae1246e.css",
-    "static/js/main.8ac44c36.js"
+    "static/css/main.8eb201db.css",
+    "static/js/main.cba2b0d4.js"
   ]
 }
