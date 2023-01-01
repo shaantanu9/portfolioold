@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-Shantanu/static/css/main.dbd46ba3.css",
+    "main.js": "/React-Portfolio-Shantanu/static/js/main.fdf7661f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio-Shantanu/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/React-Portfolio-Shantanu/index.html",
+    "main.dbd46ba3.css.map": "/React-Portfolio-Shantanu/static/css/main.dbd46ba3.css.map",
+    "main.fdf7661f.js.map": "/React-Portfolio-Shantanu/static/js/main.fdf7661f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/React-Portfolio-Shantanu/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd46ba3.css",
+    "static/js/main.fdf7661f.js"
+  ]
+}
